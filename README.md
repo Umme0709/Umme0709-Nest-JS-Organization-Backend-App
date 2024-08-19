@@ -26,7 +26,7 @@
 Nest JS Organization Backend App is a learning purpose practice Application. 
 Nest JS Organization Backend App with Authentication, CRUD APIs of User, Category, Profile, Class & Subject following TypeORM.
 
-N.B: There is a API list.txt file in the src folder. All the local API end points are listed here.
+N.B: There is an API list.txt file in the src folder. All the local API endpoints are listed here.
 
 ## Installation
 
