@@ -23,13 +23,17 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Nest JS Organization Backend App is a learning purpose practice Application. 
+Nest JS Organization Backend App with Authentication, CRUD APIs of User, Category, Profile, Class & Subject following TypeORM.
 
 ## Installation
 
 ```bash
 $ npm install
+```
+```
+Install mysql
+start mysql server
 ```
 
 ## Running the app
