@@ -1,0 +1,76 @@
+Authentication
+Registration:
+http://localhost:3000/api/register
+
+LogIn:
+http://localhost:3000/api/login
+
+LogOut:
+http://localhost:3000/api/logout
+
+
+User
+User List:
+http://localhost:3000/api
+
+User Update:
+http://localhost:3000/api/{user_id}/update
+
+User Delete:
+http://localhost:3000/api/{user_id}/delete
+
+
+Category
+Category Create:
+http://localhost:3000/api/create/category
+
+Category List:
+http://localhost:3000/api/categories
+
+Category Update:
+http://localhost:3000/api/category/{category_id}/update
+
+Category Delete:
+http://localhost:3000/api/category/{category_id}/delete
+
+
+Profile
+Profile Create:
+http://localhost:3000/api/{user_id}/create/profile
+
+Profile List:
+http://localhost:3000/api/profiles
+
+Profile Update:
+http://localhost:3000/api/profile/{profile_id}/update
+
+Profile Delete:
+http://localhost:3000/api/profile/{profile_id}/delete
+
+
+Class
+Class Create:
+http://localhost:3000/api/create/class
+
+Class List:
+http://localhost:3000/api/classses
+
+Class Update:
+http://localhost:3000/api/class/{class_id}/update
+
+Class Delete:
+http://localhost:3000/api/class/{class_id}/delete
+
+
+Subject
+Subject Create:
+http://localhost:3000/api/create/subject
+
+Subject List:
+http://localhost:3000/api/subjects
+
+Subject Update:
+http://localhost:3000/api/subject/{subject_id}/update
+
+Subject Delete:
+http://localhost:3000/api/subject/{subject_id}/delete
